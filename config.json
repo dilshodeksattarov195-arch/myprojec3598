@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyvncrypt",
+        "uuid": 496524,
+        "checksum": "hueyd"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
